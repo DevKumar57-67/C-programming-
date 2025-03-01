@@ -12,7 +12,7 @@
 // C language is the mother of all programming languages and it is the first language to be taught to computer science students
 // C is a compuler based low level language and is one of the fastest language in the world
 // This is the first code in C a basic C syntax 
-/*
+
 #include <stdio.h>
 int main() {
   printf("This is C language");
@@ -164,4 +164,4 @@ int main() {
 }
 
 
-*/
+
